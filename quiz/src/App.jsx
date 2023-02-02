@@ -1,10 +1,10 @@
+//react, componentes, estáticos
+
 import welcome from "./components/welcome";
 
-import './App.css'
+import "./App.css";
 
 function App() {
-  
-
   return (
     <div className="App">
       <h1>Quiz de programação</h1>
