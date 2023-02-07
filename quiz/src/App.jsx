@@ -1,6 +1,6 @@
-//react, componentes, estáticos
+//react, componentes, estático
 
-import welcome from "./components/welcome";
+import welcome from "../components/welcome";
 
 import "./App.css";
 
@@ -10,7 +10,7 @@ function App() {
       <h1>Quiz de programação</h1>
       <welcome />
     </div>
-  )
+  );
 }
 
 export default App;
